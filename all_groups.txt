@@ -1,0 +1,357 @@
+All Groups/Chats in DB:
+ID: 120363423520630681@g.us, Name: Google Lakecity Hackathon community, Messages recorded: No
+ID: 120363404342306852@g.us, Name: SPSU Official Community, Messages recorded: No
+ID: 120363402665262230@g.us, Name: GeeksforGeeks Campus Body - SPSU, Messages recorded: No
+ID: 120363355196252098@g.us, Name: L33tL3g10n, Messages recorded: No
+ID: 120363246679102130@g.us, Name: Dango Technology, Messages recorded: No
+ID: 120363211762818472@g.us, Name: Faculty Of Computing And Informatic SPSU, Messages recorded: No
+ID: 120363316657447022@g.us, Name: Internship+Placement training , Messages recorded: No
+ID: 120363376202548952@g.us, Name: ArLink <> BetterIDEa <> Content, Messages recorded: No
+ID: 120363401658336499@g.us, Name: Diet , Messages recorded: Yes
+ID: 120363402065903345@g.us, Name: Loreal hackathon, Messages recorded: No
+ID: 120363168510170610@g.us, Name: FSD project , Messages recorded: No
+ID: 120363405584330247@g.us, Name: Travel SAAS, AI News, Messages recorded: No
+ID: 120363408230299297@g.us, Name: Amrica ka dalal, Messages recorded: No
+ID: 120363421737843912@g.us, Name: Team Nagin 🐍, Messages recorded: No
+ID: 120363420930272862@g.us, Name: DevZ, Messages recorded: No
+ID: 120363351447518227@g.us, Name: TBE Campus Connect , Messages recorded: No
+ID: 120363420645217883@g.us, Name: Core Team, Messages recorded: No
+ID: 120363385891709851@g.us, Name: ..., Messages recorded: No
+ID: 120363361781682603@g.us, Name: Ujjain Trip , Messages recorded: No
+ID: 120363418177346121@g.us, Name: Microsoft Learn Student Ambassadors SPSU, Messages recorded: No
+ID: 120363355060788055@g.us, Name: HackWizards, Messages recorded: No
+ID: 120363196840731790@g.us, Name: Lets Speak English , Messages recorded: No
+ID: 120363183604334508@g.us, Name: Python final project, Messages recorded: No
+ID: 120363423779796324@g.us, Name: Raid, Messages recorded: No
+ID: 120363419721148937@g.us, Name: Off Mor Boys 7:00 English Batch 23rd May 25, Messages recorded: No
+ID: 120363421619898103@g.us, Name: SIH, Messages recorded: No
+ID: 120363419673682830@g.us, Name: ..., Messages recorded: No
+ID: 120363405997611624@g.us, Name: Mission Alsigarh ~ Failed, Messages recorded: No
+ID: 120363420975537876@g.us, Name: Core team - GFG campus matri, Messages recorded: No
+ID: 120363305084305141@g.us, Name: BetterIDEa Content, Messages recorded: No
+ID: 120363215435168867@g.us, Name: Cheaters 🙂, Messages recorded: No
+ID: 120363314900494578@g.us, Name: Code, Messages recorded: No
+ID: 120363343071468274@g.us, Name: Day outing , Messages recorded: No
+ID: 120363420694908490@g.us, Name: CALL FOR LUNCH 🍱 , Messages recorded: No
+ID: 120363360034917273@g.us, Name: Sasti lassan🤸🏻, Messages recorded: No
+ID: 120363401284030039@g.us, Name: 2nd Year Sub Team, Messages recorded: No
+ID: 120363421722100067@g.us, Name: Bus facility on November 29, 2025., Messages recorded: No
+ID: 120363317694096684@g.us, Name: 2nd year FSD - SPSU, Messages recorded: No
+ID: 120363425330161292@g.us, Name: Decent Den Voting, Messages recorded: No
+ID: 120363403341475052@g.us, Name: Programming club, Messages recorded: No
+ID: 120363388655507807@g.us, Name: DBMS Section D , Messages recorded: No
+ID: 120363303283195275@g.us, Name: CONTENT MANAGEMENT SYSTEM 3SEM, Messages recorded: No
+ID: 120363375241914665@g.us, Name: SilentSnipers, Messages recorded: No
+ID: 120363178130734876@g.us, Name: Tech Talk, Messages recorded: No
+ID: 120363332757121974@g.us, Name: Section D. Personal , Messages recorded: No
+ID: 120363322128013914@g.us, Name: FSD-Sem 6-Sec C-G2, Messages recorded: No
+ID: 120363388518577762@g.us, Name: DAA 4th sem Section--D, Messages recorded: No
+ID: 120363166159895976@g.us, Name: FSD, Messages recorded: No
+ID: 120363334820186504@g.us, Name: Nexus genuine student, Messages recorded: No
+ID: 120363399627176894@g.us, Name: Sec C - G2 PERSONAL, Messages recorded: No
+ID: 120363311373460400@g.us, Name: CMS SEM 3, Messages recorded: No
+ID: 120363422231422407@g.us, Name: Section -C(5th Semester,G2),mentor, Messages recorded: No
+ID: 120363152305847595@g.us, Name: Full Stack Development CSE, Messages recorded: No
+ID: 120363261840565894@g.us, Name: Dango Technology, Messages recorded: No
+ID: 120363419275464189@g.us, Name: Zerodha Varsity Quiz, Messages recorded: No
+ID: 120363423224286238@g.us, Name: JS-AI Build-a-thon Season 2, Messages recorded: No
+ID: 120363400253944878@g.us, Name: Auraflix Announcements 8, Messages recorded: No
+ID: 120363177917816866@g.us, Name: SIH Hackathon , Messages recorded: No
+ID: 120363399407992914@g.us, Name: General, Messages recorded: No
+ID: 120363407913197081@g.us, Name: Section C- DevOps VI SEM, Messages recorded: No
+ID: 120363401895727824@g.us, Name: Operating system c+d, Messages recorded: No
+ID: 120363399843771696@g.us, Name: Computer Networks sem 5th, Messages recorded: No
+ID: 120363400806711569@g.us, Name: DECODE SELECT GameGen, Messages recorded: No
+ID: 120363225864587735@g.us, Name: Blockchain sec- c, Messages recorded: No
+ID: 120363418707875700@g.us, Name: JS AI Build-a-thon, Messages recorded: No
+ID: 120363315157350262@g.us, Name: Day Scholar Support Squad, Messages recorded: No
+ID: 120363405845682681@g.us, Name: SPSU_Btech Group 2_CS_C + ME + MIE + BCA + BDES_5th Feb, Messages recorded: No
+ID: 120363411156620589@g.us, Name: Blockchain Orbit - Udaipur, Messages recorded: No
+ID: 120363381444942046@g.us, Name: GeeksforGeeks Campus Body - SPSU, Messages recorded: No
+ID: 120363423634909555@g.us, Name: SPSU_Group 2_Sem6_Quants_29th Jan, Messages recorded: No
+ID: 120363388143474017@g.us, Name: LeetCode Contest Series, Messages recorded: No
+ID: 120363421820543074@g.us, Name: Finance Quiz, Messages recorded: No
+ID: 120363401416746501@g.us, Name: Microsoft Learn Student Ambassadors SPSU, Messages recorded: No
+ID: 120363228101039655@g.us, Name: B. Tech CSE  2023-2027, Messages recorded: No
+ID: 120363423177515383@g.us, Name: SPSU CDC 2027, Messages recorded: No
+ID: 120363320073942395@g.us, Name: L33tL3g10n - Coding and Programming Club, Messages recorded: No
+ID: 120363371409035988@g.us, Name: L33tL3g10n, Messages recorded: No
+ID: 120363425911430228@g.us, Name: General, Messages recorded: No
+ID: 120363406119993145@g.us, Name: TPO ‘26-27 | Internship, Placement and more, Messages recorded: No
+ID: 120363405610281272@g.us, Name: SPSU Official Community, Messages recorded: No
+ID: 919214430531-1607070649@g.us, Name: Titanium Education Sunday GD online Group, Messages recorded: No
+ID: 120363210865606661@g.us, Name: Faculty Of Computing And Informatic SPSU, Messages recorded: No
+ID: 120363405315199119@g.us, Name: Google Lakecity Hackathon 2026 - Registered Participants, Messages recorded: No
+ID: 120363422028796751@g.us, Name: Google Lakecity Hackathon community, Messages recorded: No
+ID: 120363405866231226@g.us, Name: Test, Messages recorded: Yes
+ID: 918890468443@s.whatsapp.net, Name: 918890468443, Messages recorded: Yes
+ID: 919667002805@s.whatsapp.net, Name: 919667002805, Messages recorded: No
+ID: 919832225840@s.whatsapp.net, Name: 919832225840, Messages recorded: No
+ID: 917775883925@s.whatsapp.net, Name: 917775883925, Messages recorded: No
+ID: 919166779604@s.whatsapp.net, Name: 919166779604, Messages recorded: No
+ID: 214744136962079@lid, Name: 214744136962079, Messages recorded: No
+ID: 190138537750615@lid, Name: 190138537750615, Messages recorded: No
+ID: 255894671630361@lid, Name: 255894671630361, Messages recorded: No
+ID: 917230970642@s.whatsapp.net, Name: 917230970642, Messages recorded: No
+ID: 164862739128526@lid, Name: 164862739128526, Messages recorded: Yes
+ID: 919358360861@s.whatsapp.net, Name: 919358360861, Messages recorded: No
+ID: 919602987566@s.whatsapp.net, Name: 919602987566, Messages recorded: No
+ID: 8659190968480@lid, Name: 8659190968480, Messages recorded: No
+ID: 31997539946637@lid, Name: 31997539946637, Messages recorded: No
+ID: 918733907926@s.whatsapp.net, Name: 918733907926, Messages recorded: No
+ID: 257307816554712@lid, Name: 257307816554712, Messages recorded: No
+ID: 919982251327@s.whatsapp.net, Name: 919982251327, Messages recorded: No
+ID: 273079020323040@lid, Name: 273079020323040, Messages recorded: No
+ID: 21509699571932@lid, Name: 21509699571932, Messages recorded: No
+ID: 918074362695@s.whatsapp.net, Name: 918074362695, Messages recorded: No
+ID: 167641415213166@lid, Name: 167641415213166, Messages recorded: No
+ID: 164295971196953@lid, Name: 164295971196953, Messages recorded: No
+ID: 167851868590300@lid, Name: 167851868590300, Messages recorded: No
+ID: 195279865282778@lid, Name: 195279865282778, Messages recorded: No
+ID: 158467482501234@lid, Name: 158467482501234, Messages recorded: No
+ID: 919821937148@s.whatsapp.net, Name: 919821937148, Messages recorded: No
+ID: 19276031348782@lid, Name: 19276031348782, Messages recorded: No
+ID: 919999041935@s.whatsapp.net, Name: 919999041935, Messages recorded: No
+ID: 918962812088@s.whatsapp.net, Name: 918962812088, Messages recorded: No
+ID: 918296700576@s.whatsapp.net, Name: 918296700576, Messages recorded: No
+ID: 0@s.whatsapp.net, Name: WhatsApp, Messages recorded: No
+ID: 255649808171045@lid, Name: 255649808171045, Messages recorded: No
+ID: 918674856353@s.whatsapp.net, Name: 918674856353, Messages recorded: No
+ID: 178374639124598@lid, Name: 178374639124598, Messages recorded: No
+ID: 917222958118@s.whatsapp.net, Name: 917222958118, Messages recorded: No
+ID: 14152126297@s.whatsapp.net, Name: 14152126297, Messages recorded: No
+ID: 92995319787641@lid, Name: 92995319787641, Messages recorded: No
+ID: 917770025775@s.whatsapp.net, Name: 917770025775, Messages recorded: No
+ID: 918886629738@s.whatsapp.net, Name: 918886629738, Messages recorded: No
+ID: 62474997002448@lid, Name: 62474997002448, Messages recorded: No
+ID: 40158380429527@lid, Name: 40158380429527, Messages recorded: No
+ID: 918469978721@s.whatsapp.net, Name: 918469978721, Messages recorded: No
+ID: 917878409116@s.whatsapp.net, Name: 917878409116, Messages recorded: No
+ID: 917204470429@s.whatsapp.net, Name: 917204470429, Messages recorded: No
+ID: 165674655715524@lid, Name: 165674655715524, Messages recorded: No
+ID: 916367186447@s.whatsapp.net, Name: 916367186447, Messages recorded: No
+ID: 919024212088@s.whatsapp.net, Name: 919024212088, Messages recorded: No
+ID: 919001218944@s.whatsapp.net, Name: 919001218944, Messages recorded: No
+ID: 231614818857200@lid, Name: 231614818857200, Messages recorded: No
+ID: 276243958263985@lid, Name: 276243958263985, Messages recorded: No
+ID: 918126313350@s.whatsapp.net, Name: 918126313350, Messages recorded: No
+ID: 197963666165766@lid, Name: 197963666165766, Messages recorded: No
+ID: 918529343373@s.whatsapp.net, Name: 918529343373, Messages recorded: No
+ID: 917901392222@s.whatsapp.net, Name: 917901392222, Messages recorded: No
+ID: 919550446310@s.whatsapp.net, Name: 919550446310, Messages recorded: No
+ID: 918107911444@s.whatsapp.net, Name: 918107911444, Messages recorded: No
+ID: 77679281885285@lid, Name: 77679281885285, Messages recorded: No
+ID: 919163257082@s.whatsapp.net, Name: 919163257082, Messages recorded: No
+ID: 919265968336@s.whatsapp.net, Name: 919265968336, Messages recorded: No
+ID: 919784310296@s.whatsapp.net, Name: 919784310296, Messages recorded: No
+ID: 237082463174730@lid, Name: 237082463174730, Messages recorded: No
+ID: 918447951182@s.whatsapp.net, Name: 918447951182, Messages recorded: No
+ID: 918233946445@s.whatsapp.net, Name: 918233946445, Messages recorded: No
+ID: 919917072018@s.whatsapp.net, Name: 919917072018, Messages recorded: No
+ID: 227981310034124@lid, Name: 227981310034124, Messages recorded: No
+ID: 918657941130@s.whatsapp.net, Name: 918657941130, Messages recorded: No
+ID: 213507270308090@lid, Name: 213507270308090, Messages recorded: No
+ID: 917877851342@s.whatsapp.net, Name: 917877851342, Messages recorded: No
+ID: 916350083743@s.whatsapp.net, Name: 916350083743, Messages recorded: No
+ID: 20457180922000@lid, Name: 20457180922000, Messages recorded: No
+ID: 918147098819@s.whatsapp.net, Name: 918147098819, Messages recorded: No
+ID: 15582812491920@lid, Name: 15582812491920, Messages recorded: No
+ID: 918081234109@s.whatsapp.net, Name: 918081234109, Messages recorded: No
+ID: 918690786642@s.whatsapp.net, Name: 918690786642, Messages recorded: No
+ID: 175569975160904@lid, Name: 175569975160904, Messages recorded: No
+ID: 60155832082557@lid, Name: 60155832082557, Messages recorded: No
+ID: 917017790989@s.whatsapp.net, Name: 917017790989, Messages recorded: No
+ID: 119456680440055@lid, Name: 119456680440055, Messages recorded: No
+ID: 918068422458@s.whatsapp.net, Name: 918068422458, Messages recorded: No
+ID: 253227647930412@lid, Name: 253227647930412, Messages recorded: No
+ID: 919950220907@s.whatsapp.net, Name: 919950220907, Messages recorded: No
+ID: 919814867990@s.whatsapp.net, Name: 919814867990, Messages recorded: No
+ID: 115419243384882@lid, Name: 115419243384882, Messages recorded: No
+ID: 21106006204649@lid, Name: 21106006204649, Messages recorded: No
+ID: 917411672294@s.whatsapp.net, Name: 917411672294, Messages recorded: No
+ID: 918884477728@s.whatsapp.net, Name: 918884477728, Messages recorded: No
+ID: 916377265219@s.whatsapp.net, Name: 916377265219, Messages recorded: No
+ID: 917411672298@s.whatsapp.net, Name: 917411672298, Messages recorded: No
+ID: 916378867070@s.whatsapp.net, Name: 916378867070, Messages recorded: No
+ID: 919966701272@s.whatsapp.net, Name: 919966701272, Messages recorded: No
+ID: 57557041307711@lid, Name: 57557041307711, Messages recorded: No
+ID: 919587333660@s.whatsapp.net, Name: 919587333660, Messages recorded: No
+ID: 244989917433963@lid, Name: 244989917433963, Messages recorded: No
+ID: 132676472299695@lid, Name: 132676472299695, Messages recorded: No
+ID: 190422123045066@lid, Name: 190422123045066, Messages recorded: No
+ID: 917428262731@s.whatsapp.net, Name: 917428262731, Messages recorded: No
+ID: 164896998219783@lid, Name: 164896998219783, Messages recorded: No
+ID: 98209192001687@lid, Name: 98209192001687, Messages recorded: No
+ID: 201163618127978@lid, Name: 201163618127978, Messages recorded: No
+ID: 919509463218@s.whatsapp.net, Name: 919509463218, Messages recorded: No
+ID: 917042083025@s.whatsapp.net, Name: 917042083025, Messages recorded: No
+ID: 918875636544@s.whatsapp.net, Name: 918875636544, Messages recorded: No
+ID: 120363420985677704@g.us, Name: Gupt Baatein 😶, Messages recorded: No
+ID: 918105749018@s.whatsapp.net, Name: 918105749018, Messages recorded: No
+ID: 120363402678092474@g.us, Name: CoderArmy, Messages recorded: No
+ID: 120363420835664621@g.us, Name: Social Media posting, Messages recorded: No
+ID: 120363423112389674@g.us, Name: STRIKE30, Messages recorded: No
+ID: 918619247818@s.whatsapp.net, Name: 918619247818, Messages recorded: No
+ID: 917411672292@s.whatsapp.net, Name: 917411672292, Messages recorded: No
+ID: 105270252466211@lid, Name: 105270252466211, Messages recorded: No
+ID: 917619409051@s.whatsapp.net, Name: 917619409051, Messages recorded: No
+ID: 918347688000@s.whatsapp.net, Name: 918347688000, Messages recorded: No
+ID: 919672626710@s.whatsapp.net, Name: 919672626710, Messages recorded: No
+ID: 918068422452@s.whatsapp.net, Name: 918068422452, Messages recorded: No
+ID: 126010632736981@lid, Name: 126010632736981, Messages recorded: No
+ID: 919950512004@s.whatsapp.net, Name: 919950512004, Messages recorded: No
+ID: 918955710789@s.whatsapp.net, Name: 918955710789, Messages recorded: No
+ID: 911800224344@s.whatsapp.net, Name: 911800224344, Messages recorded: No
+ID: 917014419637@s.whatsapp.net, Name: 917014419637, Messages recorded: No
+ID: 918209494379@s.whatsapp.net, Name: 918209494379, Messages recorded: No
+ID: 195619234799627@lid, Name: 195619234799627, Messages recorded: No
+ID: 919355901321@s.whatsapp.net, Name: 919355901321, Messages recorded: No
+ID: 242494390436066@lid, Name: 242494390436066, Messages recorded: No
+ID: 278245681438769@lid, Name: 278245681438769, Messages recorded: No
+ID: 919667820011@s.whatsapp.net, Name: 919667820011, Messages recorded: No
+ID: 917426885752@s.whatsapp.net, Name: 917426885752, Messages recorded: No
+ID: 919028645638@s.whatsapp.net, Name: 919028645638, Messages recorded: No
+ID: 918630556881@s.whatsapp.net, Name: 918630556881, Messages recorded: No
+ID: 919986677729@s.whatsapp.net, Name: 919986677729, Messages recorded: No
+ID: 918826899441@s.whatsapp.net, Name: 918826899441, Messages recorded: No
+ID: 918003650279@s.whatsapp.net, Name: 918003650279, Messages recorded: No
+ID: 918068422447@s.whatsapp.net, Name: 918068422447, Messages recorded: No
+ID: 918886659269@s.whatsapp.net, Name: 918886659269, Messages recorded: No
+ID: 120363176098524998@g.us, Name: Dev Team, Messages recorded: No
+ID: 120363402920821007@g.us, Name: Strike, Messages recorded: No
+ID: 916303341355@s.whatsapp.net, Name: 916303341355, Messages recorded: No
+ID: 917058055335@s.whatsapp.net, Name: 917058055335, Messages recorded: No
+ID: 919465477008@s.whatsapp.net, Name: 919465477008, Messages recorded: No
+ID: 120363402847030685@g.us, Name: CoderArmy.in, Messages recorded: No
+ID: 916363802383@s.whatsapp.net, Name: 916363802383, Messages recorded: No
+ID: 918130350091@s.whatsapp.net, Name: 918130350091, Messages recorded: No
+ID: 916207846696@s.whatsapp.net, Name: 916207846696, Messages recorded: No
+ID: 917411672297@s.whatsapp.net, Name: 917411672297, Messages recorded: No
+ID: 13135550002@s.whatsapp.net, Name: Meta AI, Messages recorded: No
+ID: 918867887041@s.whatsapp.net, Name: 918867887041, Messages recorded: No
+ID: 918000571986@s.whatsapp.net, Name: 918000571986, Messages recorded: No
+ID: 916366924662@s.whatsapp.net, Name: 916366924662, Messages recorded: No
+ID: 918956360992@s.whatsapp.net, Name: 918956360992, Messages recorded: No
+ID: 447876137368@s.whatsapp.net, Name: 447876137368, Messages recorded: No
+ID: 917316914512@s.whatsapp.net, Name: 917316914512, Messages recorded: No
+ID: 917799025757@s.whatsapp.net, Name: 917799025757, Messages recorded: No
+ID: 918068422494@s.whatsapp.net, Name: 918068422494, Messages recorded: No
+ID: 919966700312@s.whatsapp.net, Name: 919966700312, Messages recorded: No
+ID: 919310501395@s.whatsapp.net, Name: 919310501395, Messages recorded: No
+ID: 918340630876@s.whatsapp.net, Name: 918340630876, Messages recorded: No
+ID: 919405760182@s.whatsapp.net, Name: 919405760182, Messages recorded: No
+ID: 917411760751@s.whatsapp.net, Name: 917411760751, Messages recorded: No
+ID: 918527833936@s.whatsapp.net, Name: 918527833936, Messages recorded: No
+ID: 120363403739466438@g.us, Name: Course Group , Messages recorded: No
+ID: 917799025551@s.whatsapp.net, Name: 917799025551, Messages recorded: No
+ID: 917888568939@s.whatsapp.net, Name: 917888568939, Messages recorded: No
+ID: 919205698464@s.whatsapp.net, Name: 919205698464, Messages recorded: No
+ID: 917007632206@s.whatsapp.net, Name: 917007632206, Messages recorded: No
+ID: 919084845512@s.whatsapp.net, Name: 919084845512, Messages recorded: No
+ID: 918792974745@s.whatsapp.net, Name: 918792974745, Messages recorded: No
+ID: 918291104774@s.whatsapp.net, Name: 918291104774, Messages recorded: No
+ID: 917849912038@s.whatsapp.net, Name: 917849912038, Messages recorded: No
+ID: 919799100733@s.whatsapp.net, Name: 919799100733, Messages recorded: No
+ID: 919137580109@s.whatsapp.net, Name: 919137580109, Messages recorded: No
+ID: 917799025700@s.whatsapp.net, Name: 917799025700, Messages recorded: No
+ID: 917718839544@s.whatsapp.net, Name: 917718839544, Messages recorded: No
+ID: 919887855482@s.whatsapp.net, Name: 919887855482, Messages recorded: No
+ID: 918848574281@s.whatsapp.net, Name: 918848574281, Messages recorded: No
+ID: 919828530920@s.whatsapp.net, Name: 919828530920, Messages recorded: No
+ID: 917878321357@s.whatsapp.net, Name: 917878321357, Messages recorded: No
+ID: 919022690226@s.whatsapp.net, Name: 919022690226, Messages recorded: No
+ID: 919148617641@s.whatsapp.net, Name: 919148617641, Messages recorded: No
+ID: 918792974744@s.whatsapp.net, Name: 918792974744, Messages recorded: No
+ID: 919632750597@s.whatsapp.net, Name: 919632750597, Messages recorded: No
+ID: 918879214067@s.whatsapp.net, Name: 918879214067, Messages recorded: No
+ID: 916350285908@s.whatsapp.net, Name: 916350285908, Messages recorded: No
+ID: 919289909467@s.whatsapp.net, Name: 919289909467, Messages recorded: No
+ID: 918824931546@s.whatsapp.net, Name: 918824931546, Messages recorded: No
+ID: 918069453808@s.whatsapp.net, Name: 918069453808, Messages recorded: No
+ID: 919998881729@s.whatsapp.net, Name: 919998881729, Messages recorded: No
+ID: 917852060217@s.whatsapp.net, Name: 917852060217, Messages recorded: No
+ID: 916375425968@s.whatsapp.net, Name: 916375425968, Messages recorded: No
+ID: 918955820560@s.whatsapp.net, Name: 918955820560, Messages recorded: No
+ID: 15557579115@s.whatsapp.net, Name: 15557579115, Messages recorded: No
+ID: 15557284843@s.whatsapp.net, Name: 15557284843, Messages recorded: No
+ID: 919214430531@s.whatsapp.net, Name: 919214430531, Messages recorded: No
+ID: 919227988293@s.whatsapp.net, Name: 919227988293, Messages recorded: No
+ID: 917568406621@s.whatsapp.net, Name: 917568406621, Messages recorded: No
+ID: 916377258772@s.whatsapp.net, Name: 916377258772, Messages recorded: No
+ID: 919036704495@s.whatsapp.net, Name: 919036704495, Messages recorded: No
+ID: 919319622936@s.whatsapp.net, Name: 919319622936, Messages recorded: No
+ID: 917042939998@s.whatsapp.net, Name: 917042939998, Messages recorded: No
+ID: 918667492699@s.whatsapp.net, Name: 918667492699, Messages recorded: No
+ID: 918218942373@s.whatsapp.net, Name: 918218942373, Messages recorded: No
+ID: 919560995996@s.whatsapp.net, Name: 919560995996, Messages recorded: No
+ID: 918976780777@s.whatsapp.net, Name: 918976780777, Messages recorded: No
+ID: 917411672293@s.whatsapp.net, Name: 917411672293, Messages recorded: No
+ID: 918336061624@s.whatsapp.net, Name: 918336061624, Messages recorded: No
+ID: 917877309643@s.whatsapp.net, Name: 917877309643, Messages recorded: No
+ID: 919359046215@s.whatsapp.net, Name: 919359046215, Messages recorded: No
+ID: 919501473779@s.whatsapp.net, Name: 919501473779, Messages recorded: No
+ID: 919878050057@s.whatsapp.net, Name: 919878050057, Messages recorded: No
+ID: 15182548276@s.whatsapp.net, Name: 15182548276, Messages recorded: No
+ID: 916361758584@s.whatsapp.net, Name: 916361758584, Messages recorded: No
+ID: 916361528374@s.whatsapp.net, Name: 916361528374, Messages recorded: No
+ID: 918826822265@s.whatsapp.net, Name: 918826822265, Messages recorded: No
+ID: 917878868197@s.whatsapp.net, Name: 917878868197, Messages recorded: No
+ID: 919606075447@s.whatsapp.net, Name: 919606075447, Messages recorded: No
+ID: 919289191666@s.whatsapp.net, Name: 919289191666, Messages recorded: No
+ID: 917980122370@s.whatsapp.net, Name: 917980122370, Messages recorded: No
+ID: 919711630534@s.whatsapp.net, Name: 919711630534, Messages recorded: No
+ID: 919220400288@s.whatsapp.net, Name: 919220400288, Messages recorded: No
+ID: 919818237051@s.whatsapp.net, Name: 919818237051, Messages recorded: No
+ID: 12019751250@s.whatsapp.net, Name: 12019751250, Messages recorded: No
+ID: 917014099785@s.whatsapp.net, Name: 917014099785, Messages recorded: No
+ID: 917665117445@s.whatsapp.net, Name: 917665117445, Messages recorded: No
+ID: 919205831373@s.whatsapp.net, Name: 919205831373, Messages recorded: No
+ID: 917044943188@s.whatsapp.net, Name: 917044943188, Messages recorded: No
+ID: 917827997282@s.whatsapp.net, Name: 917827997282, Messages recorded: No
+ID: 918826263847@s.whatsapp.net, Name: 918826263847, Messages recorded: No
+ID: 919351609080@s.whatsapp.net, Name: 919351609080, Messages recorded: No
+ID: 919001834833@s.whatsapp.net, Name: 919001834833, Messages recorded: No
+ID: 918971152780@s.whatsapp.net, Name: 918971152780, Messages recorded: No
+ID: 919711773333@s.whatsapp.net, Name: 919711773333, Messages recorded: No
+ID: 919870330830@s.whatsapp.net, Name: 919870330830, Messages recorded: No
+ID: 919538233993@s.whatsapp.net, Name: 919538233993, Messages recorded: No
+ID: 917030310198@s.whatsapp.net, Name: 917030310198, Messages recorded: No
+ID: 919782035350@s.whatsapp.net, Name: 919782035350, Messages recorded: No
+ID: 917036066683@s.whatsapp.net, Name: 917036066683, Messages recorded: No
+ID: 919174247330@s.whatsapp.net, Name: 919174247330, Messages recorded: No
+ID: 918000548638@s.whatsapp.net, Name: 918000548638, Messages recorded: No
+ID: 918068422469@s.whatsapp.net, Name: 918068422469, Messages recorded: No
+ID: 917204077806@s.whatsapp.net, Name: 917204077806, Messages recorded: No
+ID: 918068422428@s.whatsapp.net, Name: 918068422428, Messages recorded: No
+ID: 919319988105@s.whatsapp.net, Name: 919319988105, Messages recorded: No
+ID: 917600493108@s.whatsapp.net, Name: 917600493108, Messages recorded: No
+ID: 917600282017@s.whatsapp.net, Name: 917600282017, Messages recorded: No
+ID: 919790826725@s.whatsapp.net, Name: 919790826725, Messages recorded: No
+ID: 919373111257@s.whatsapp.net, Name: 919373111257, Messages recorded: No
+ID: 917042944550@s.whatsapp.net, Name: 917042944550, Messages recorded: No
+ID: 919549993335@s.whatsapp.net, Name: 919549993335, Messages recorded: No
+ID: 919709092000@s.whatsapp.net, Name: 919709092000, Messages recorded: No
+ID: 918068422470@s.whatsapp.net, Name: 918068422470, Messages recorded: No
+ID: 918005957599@s.whatsapp.net, Name: 918005957599, Messages recorded: No
+ID: 918104978592@s.whatsapp.net, Name: 918104978592, Messages recorded: No
+ID: 918882459071@s.whatsapp.net, Name: 918882459071, Messages recorded: No
+ID: 919518806456@s.whatsapp.net, Name: 919518806456, Messages recorded: No
+ID: 917558269743@s.whatsapp.net, Name: 917558269743, Messages recorded: No
+ID: 919319988108@s.whatsapp.net, Name: 919319988108, Messages recorded: No
+ID: 917043765765@s.whatsapp.net, Name: 917043765765, Messages recorded: No
+ID: 918080166137@s.whatsapp.net, Name: 918080166137, Messages recorded: No
+ID: 918886646352@s.whatsapp.net, Name: 918886646352, Messages recorded: No
+ID: 919166947497@s.whatsapp.net, Name: 919166947497, Messages recorded: No
+ID: 447974905090@s.whatsapp.net, Name: 447974905090, Messages recorded: No
+ID: 919004990049@s.whatsapp.net, Name: 919004990049, Messages recorded: No
+ID: 919871732828@s.whatsapp.net, Name: 919871732828, Messages recorded: No
+ID: 917976738114@s.whatsapp.net, Name: 917976738114, Messages recorded: No
+ID: 919024478074@s.whatsapp.net, Name: 919024478074, Messages recorded: No
+ID: 917665803943@s.whatsapp.net, Name: 917665803943, Messages recorded: No
+ID: 919221492214@s.whatsapp.net, Name: 919221492214, Messages recorded: No
+ID: 918971153432@s.whatsapp.net, Name: 918971153432, Messages recorded: No
+ID: 918799938000@s.whatsapp.net, Name: 918799938000, Messages recorded: No
+ID: 918003483760@s.whatsapp.net, Name: 918003483760, Messages recorded: No
+ID: 918971892169@s.whatsapp.net, Name: 918971892169, Messages recorded: No
+ID: 120363231847666783@g.us, Name: Statistics Btech Sec C and D, Messages recorded: No
+ID: 919784382895@s.whatsapp.net, Name: 919784382895, Messages recorded: No
