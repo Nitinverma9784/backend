@@ -1,11 +1,17 @@
 const Setting = require('../models/setting.model');
 const Group = require('../models/group.model');
+const WaSession = require('../models/wa-session.model');
 
 class SettingsService {
   constructor() {
     /** sessionId string → { globalBackup, perGroupBackup Map } */
     this.cacheBySession = new Map();
     this.initialized = false;
+  }
+
+  async getTenantIdBySession(waSessionId) {
+    const row = await WaSession.findById(waSessionId).select('tenantId').lean();
+    return row?.tenantId || null;
   }
 
   async init(waSessionId) {
@@ -25,9 +31,14 @@ class SettingsService {
 
   async refreshCache(waSessionId) {
     const sid = waSessionId.toString();
-    let settings = await Setting.findOne({ waSessionId });
+    const tenantId = await this.getTenantIdBySession(waSessionId);
+    if (!tenantId) {
+      throw new Error(`Tenant not found for session ${sid}`);
+    }
+    let settings = await Setting.findOne({ tenantId, waSessionId });
     if (!settings) {
       settings = await Setting.create({
+        tenantId,
         waSessionId,
         backupEnabled: false,
         perGroupBackup: {},
@@ -41,7 +52,7 @@ class SettingsService {
     };
     this.cacheBySession.set(sid, entry);
 
-    const groups = await Group.find({ sessionId: waSessionId }, 'groupId isBackupEnabled');
+    const groups = await Group.find({ tenantId, sessionId: waSessionId }, 'groupId isBackupEnabled');
     groups.forEach((g) => {
       entry.perGroupBackup.set(g.groupId, g.isBackupEnabled === true);
     });
@@ -69,9 +80,11 @@ class SettingsService {
   }
 
   async setGlobalBackup(waSessionId, enabled) {
+    const tenantId = await this.getTenantIdBySession(waSessionId);
+    if (!tenantId) throw new Error(`Tenant not found for session ${waSessionId}`);
     await Setting.findOneAndUpdate(
-      { waSessionId },
-      { backupEnabled: enabled },
+      { tenantId, waSessionId },
+      { tenantId, backupEnabled: enabled },
       { upsert: true, returnDocument: 'after' }
     );
     const sid = waSessionId.toString();
@@ -84,14 +97,16 @@ class SettingsService {
   }
 
   async setGroupBackup(waSessionId, groupId, enabled) {
+    const tenantId = await this.getTenantIdBySession(waSessionId);
+    if (!tenantId) throw new Error(`Tenant not found for session ${waSessionId}`);
     await Group.findOneAndUpdate(
-      { sessionId: waSessionId, groupId },
-      { isBackupEnabled: enabled },
+      { tenantId, sessionId: waSessionId, groupId },
+      { tenantId, isBackupEnabled: enabled },
       { upsert: true, returnDocument: 'after' }
     );
     await Setting.findOneAndUpdate(
-      { waSessionId },
-      { [`perGroupBackup.${groupId}`]: enabled },
+      { tenantId, waSessionId },
+      { tenantId, [`perGroupBackup.${groupId}`]: enabled },
       { upsert: true, returnDocument: 'after' }
     );
     const sid = waSessionId.toString();
@@ -105,12 +120,14 @@ class SettingsService {
 
   async disableAllBackups(waSessionId) {
     console.log('[Settings] Disabling backups for session', waSessionId);
+    const tenantId = await this.getTenantIdBySession(waSessionId);
+    if (!tenantId) throw new Error(`Tenant not found for session ${waSessionId}`);
     await Setting.findOneAndUpdate(
-      { waSessionId },
-      { backupEnabled: false, perGroupBackup: {} },
+      { tenantId, waSessionId },
+      { tenantId, backupEnabled: false, perGroupBackup: {} },
       { upsert: true }
     );
-    await Group.updateMany({ sessionId: waSessionId }, { isBackupEnabled: false });
+    await Group.updateMany({ tenantId, sessionId: waSessionId }, { isBackupEnabled: false });
     const sid = waSessionId.toString();
     const c = this.cacheBySession.get(sid);
     if (c) {
