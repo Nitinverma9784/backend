@@ -17,9 +17,57 @@ const WaSession = require('./models/wa-session.model');
 const app = express();
 const server = http.createServer(app);
 
+const parseAllowedOrigins = () =>
+  String(process.env.FRONTEND_URL || '')
+    .split(',')
+    .map((s) => s.trim())
+    .filter(Boolean);
+
+const allowedOrigins = parseAllowedOrigins();
+
+const normalizeOrigin = (origin) => {
+  if (!origin) return '';
+  try {
+    return new URL(origin).origin;
+  } catch {
+    return '';
+  }
+};
+
+const isAllowedOrigin = (origin) => {
+  if (!origin) return true; // non-browser or same-origin tools
+  const normalized = normalizeOrigin(origin);
+  if (!normalized) return false;
+  if (allowedOrigins.length === 0) return true;
+
+  for (const rule of allowedOrigins) {
+    const r = rule.trim();
+    if (!r) continue;
+    if (r === '*') return true;
+
+    // Exact origin match
+    if (normalizeOrigin(r) === normalized) return true;
+
+    // Wildcard suffix, e.g. https://*.vercel.app
+    if (r.includes('*')) {
+      const pattern = r
+        .replace(/[.+?^${}()|[\]\\]/g, '\\$&')
+        .replace(/\*/g, '.*');
+      const regex = new RegExp(`^${pattern}$`, 'i');
+      if (regex.test(origin) || regex.test(normalized)) return true;
+    }
+  }
+  return false;
+};
+
+const corsOrigin = (origin, callback) => {
+  if (isAllowedOrigin(origin)) return callback(null, true);
+  return callback(new Error(`CORS blocked for origin: ${origin}`), false);
+};
+
 const io = socketIo(server, {
   cors: {
-    origin: process.env.FRONTEND_URL || '*',
+    origin: corsOrigin,
     methods: ['GET', 'POST'],
     credentials: true,
   },
@@ -29,7 +77,7 @@ const io = socketIo(server, {
 
 app.use(
   cors({
-    origin: process.env.FRONTEND_URL || '*',
+    origin: corsOrigin,
     credentials: true,
   })
 );
